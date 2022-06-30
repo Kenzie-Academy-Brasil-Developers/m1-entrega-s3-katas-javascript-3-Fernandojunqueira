@@ -1,0 +1,6 @@
+arr;i;i>=-25;i--;arr.push(i)
+[]           ;25 ;true ;true ;25
+[25]         ;24 ;true ;true ;24
+[25,24]      ;23 ;true ;true ;23
+[25,24,23]   ;22 ;true ;true ;22
+[25,24,23,22];21 ;true ;true ;21
